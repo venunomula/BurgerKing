@@ -1,0 +1,175 @@
+#home{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 70px;
+}
+@font-face {
+    font-family:Flame bold;
+    src: url(../Assets/Font/FlameBold.otf);
+}
+@font-face {
+    font-family: Flame-regular;
+    src: url(../Assets/Font/FlameRegular.otf);
+}
+.home-side1{
+    font-family: Flame bold;
+    font-size: 30px;
+    position: relative;
+    left: -80px;
+    top: 80px;
+    color: rgb(80, 35, 20);
+
+
+}
+.side-img{
+    object-position: left 50% top 50%;
+    width: 770px;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.btn1,.btn2{
+    width: 300px;
+    height: 50px;
+    border-radius: 9999px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.btn1{
+    background-color:rgb(229, 13, 13);
+    color: white;
+    font-size: 15px;
+    font-family: Flame-regular;
+    position: relative;
+    top: 20px;
+}
+.btn1 i{
+    position: relative;
+    left: -20px;
+}
+.btn2 i{
+    position: relative;
+    left: -20px;
+}
+.btn2{
+  
+    color: rgb(80, 35, 20);
+    position: relative;
+    top: 30px;
+    font-size: 15px;
+    border: 1px solid black;
+    font-family: Flame-regular; 
+}
+@media only screen and (max-width:600px){
+    .home-side1{
+        font-family: Flame bold;
+        font-size: 13px;
+        position: relative;
+        left: 0px;
+        top: 80px;
+        color: rgb(80, 35, 20);
+    
+    
+    }
+    .side-img{
+        object-position: left 50% top 50%;
+        width: 370px;
+        height:200px;
+        position: relative;
+        left: 30px;
+        top: 60px;
+    }
+    .btn1,.btn2{
+        width: 150px;
+        height: 30px;
+        border-radius: 9999px;
+        outline: none;
+        border: none;
+        left: 0px;
+        cursor: pointer;
+    }
+    .btn1{
+        background-color:rgb(229, 13, 13);
+        color: white;
+        font-size: 15px;
+        font-family: Flame-regular;
+        position: relative;
+        top: 20px;
+    }
+    .btn1 i{
+        position: relative;
+        left: -20px;
+    }
+    .btn2 i{
+        position: relative;
+        left: -10px;
+    }
+    .btn2{
+      
+        color: rgb(80, 35, 20);
+        position: relative;
+        top: 30px;
+        font-size: 15px;
+        border: 1px solid black;
+        font-family: Flame-regular; 
+    }
+
+}
+@media only screen and (max-width:400px){
+    .home-side1{
+        font-family: Flame bold;
+        font-size: 25px;
+        position: relative;
+        left: 200px;
+        top: 300px;
+        color: rgb(80, 35, 20);
+    
+    
+    }
+    .side-img{
+        object-position: left 50% top 50%;
+        width: 370px;
+        height:200px;
+        position: relative;
+        left: -180px;
+        top: 20px;
+    }
+    .btn1,.btn2{
+        width: 370px;
+        height: 50px;
+        border-radius: 9999px;
+        outline: none;
+        border: none;
+        left: -10px;
+        cursor: pointer;
+    }
+    .btn1{
+        background-color:rgb(229, 13, 13);
+        color: white;
+        font-size: 15px;
+        font-family: Flame-regular;
+        position: relative;
+        top: 20px;
+    }
+    .btn1 i{
+        position: relative;
+        left: -20px;
+    }
+    .btn2 i{
+        position: relative;
+        left: -10px;
+    }
+    .btn2{
+      
+        color: rgb(80, 35, 20);
+        position: relative;
+        top: 30px;
+        font-size: 15px;
+        border: 1px solid black;
+        font-family: Flame-regular; 
+    }
+   
+
+}
