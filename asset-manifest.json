@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BurgerKing/static/css/main.f9d44c00.css",
+    "main.css": "/BurgerKing/static/css/main.c2ad15ad.css",
     "main.js": "/BurgerKing/static/js/main.8b03c2d9.js",
     "static/media/FlameRegular.otf": "/BurgerKing/static/media/FlameRegular.a7afd0d4bda2646c0181.otf",
     "static/media/FlameBold.otf": "/BurgerKing/static/media/FlameBold.05b9f7720113e4f1044b.otf",
@@ -12,11 +12,11 @@
     "static/media/burger2.avif": "/BurgerKing/static/media/burger2.47adcd9246d99934ba90.avif",
     "static/media/Qrcode.avif": "/BurgerKing/static/media/Qrcode.28fc2f876b6833054436.avif",
     "index.html": "/BurgerKing/index.html",
-    "main.f9d44c00.css.map": "/BurgerKing/static/css/main.f9d44c00.css.map",
+    "main.c2ad15ad.css.map": "/BurgerKing/static/css/main.c2ad15ad.css.map",
     "main.8b03c2d9.js.map": "/BurgerKing/static/js/main.8b03c2d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9d44c00.css",
+    "static/css/main.c2ad15ad.css",
     "static/js/main.8b03c2d9.js"
   ]
 }
