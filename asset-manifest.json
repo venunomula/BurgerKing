@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/burgerKing/static/css/main.34a9010e.css",
-    "main.js": "/burgerKing/static/js/main.a9ad6a5b.js",
-    "static/media/FlameRegular.otf": "/burgerKing/static/media/FlameRegular.a7afd0d4bda2646c0181.otf",
-    "static/media/FlameBold.otf": "/burgerKing/static/media/FlameBold.05b9f7720113e4f1044b.otf",
-    "static/media/FlameSans.otf": "/burgerKing/static/media/FlameSans.dd82c9bf327b2316ac5e.otf",
-    "static/media/ff27adad-2100x1050.avif": "/burgerKing/static/media/d1a04a0a0db55143075e1b32875de7e6ff27adad-2100x1050.71756f6c0c8f4572a363.avif",
-    "static/media/burger4.avif": "/burgerKing/static/media/burger4.731b6417aa36625eb932.avif",
-    "static/media/burger1.avif": "/burgerKing/static/media/burger1.16ad2f2354c627e48e7f.avif",
-    "static/media/burger3.avif": "/burgerKing/static/media/burger3.16cd33ee87451ef2abbe.avif",
-    "static/media/burger2.avif": "/burgerKing/static/media/burger2.47adcd9246d99934ba90.avif",
-    "static/media/Qrcode.avif": "/burgerKing/static/media/Qrcode.28fc2f876b6833054436.avif",
-    "index.html": "/burgerKing/index.html",
-    "main.34a9010e.css.map": "/burgerKing/static/css/main.34a9010e.css.map",
-    "main.a9ad6a5b.js.map": "/burgerKing/static/js/main.a9ad6a5b.js.map"
+    "main.css": "/BurgerKing/static/css/main.f9d44c00.css",
+    "main.js": "/BurgerKing/static/js/main.8b03c2d9.js",
+    "static/media/FlameRegular.otf": "/BurgerKing/static/media/FlameRegular.a7afd0d4bda2646c0181.otf",
+    "static/media/FlameBold.otf": "/BurgerKing/static/media/FlameBold.05b9f7720113e4f1044b.otf",
+    "static/media/FlameSans.otf": "/BurgerKing/static/media/FlameSans.dd82c9bf327b2316ac5e.otf",
+    "static/media/ff27adad-2100x1050.avif": "/BurgerKing/static/media/d1a04a0a0db55143075e1b32875de7e6ff27adad-2100x1050.71756f6c0c8f4572a363.avif",
+    "static/media/burger4.avif": "/BurgerKing/static/media/burger4.731b6417aa36625eb932.avif",
+    "static/media/burger1.avif": "/BurgerKing/static/media/burger1.16ad2f2354c627e48e7f.avif",
+    "static/media/burger3.avif": "/BurgerKing/static/media/burger3.16cd33ee87451ef2abbe.avif",
+    "static/media/burger2.avif": "/BurgerKing/static/media/burger2.47adcd9246d99934ba90.avif",
+    "static/media/Qrcode.avif": "/BurgerKing/static/media/Qrcode.28fc2f876b6833054436.avif",
+    "index.html": "/BurgerKing/index.html",
+    "main.f9d44c00.css.map": "/BurgerKing/static/css/main.f9d44c00.css.map",
+    "main.8b03c2d9.js.map": "/BurgerKing/static/js/main.8b03c2d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.34a9010e.css",
-    "static/js/main.a9ad6a5b.js"
+    "static/css/main.f9d44c00.css",
+    "static/js/main.8b03c2d9.js"
   ]
 }
